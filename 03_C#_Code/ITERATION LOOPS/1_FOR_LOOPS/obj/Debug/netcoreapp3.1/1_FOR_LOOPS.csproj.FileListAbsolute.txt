@@ -1,0 +1,14 @@
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\bin\Debug\netcoreapp3.1\1_FOR_LOOPS.exe
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\bin\Debug\netcoreapp3.1\1_FOR_LOOPS.deps.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\bin\Debug\netcoreapp3.1\1_FOR_LOOPS.runtimeconfig.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\bin\Debug\netcoreapp3.1\1_FOR_LOOPS.runtimeconfig.dev.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\bin\Debug\netcoreapp3.1\1_FOR_LOOPS.dll
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\bin\Debug\netcoreapp3.1\1_FOR_LOOPS.pdb
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\obj\Debug\netcoreapp3.1\1_FOR_LOOPS.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\obj\Debug\netcoreapp3.1\1_FOR_LOOPS.AssemblyInfoInputs.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\obj\Debug\netcoreapp3.1\1_FOR_LOOPS.AssemblyInfo.cs
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\obj\Debug\netcoreapp3.1\1_FOR_LOOPS.csproj.CoreCompileInputs.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\obj\Debug\netcoreapp3.1\1_FOR_LOOPS.dll
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\obj\Debug\netcoreapp3.1\1_FOR_LOOPS.pdb
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\obj\Debug\netcoreapp3.1\1_FOR_LOOPS.genruntimeconfig.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\03_C#_Code\ITERATION LOOPS\1_FOR_LOOPS\obj\Debug\netcoreapp3.1\1_FOR_LOOPS.csproj.AssemblyReference.cache
