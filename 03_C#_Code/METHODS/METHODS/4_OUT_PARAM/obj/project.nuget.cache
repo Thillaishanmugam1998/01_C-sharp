@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mHzvI2XApVYPcAmDkvU9RXYPSZJJv4RGNo8YQ9N6gKGS6R3JHCv+JY0ccTuygeLmJ5rZU3Eujb49Xgqpn4yAOw==",
+  "success": true,
+  "projectFilePath": "D:\\01_C#_Tutorial\\C-Sharp\\01_C-sharp\\03_C#_Code\\METHODS\\METHODS\\4_OUT_PARAM\\4_OUT_PARAM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TT_1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

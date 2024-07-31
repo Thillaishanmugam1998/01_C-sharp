@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SeUO6kgGqsikcpz9AMOz5DvNv3v3VTg9VgAWfqxuqQ4yhEi/gVhfN8z6kjwWRoe3yAVcgRhoi/KJU0sKQz848g==",
+  "success": true,
+  "projectFilePath": "D:\\01_C#_Tutorial\\C-Sharp\\01_C-sharp\\03_C#_Code\\METHODS\\METHODS\\2_PASS_BY_VALUE\\3_PASS_BY_VALUE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TT_1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
