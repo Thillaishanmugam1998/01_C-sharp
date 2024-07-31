@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_CALL_BY_REFERENCE", "2_CA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_OUT_PARAM", "4_OUT_PARAM\4_OUT_PARAM.csproj", "{4F489A5A-9119-4E66-8D2E-81E39FBC5954}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_PARAM_METHOD", "5_PARAM_METHOD\5_PARAM_METHOD.csproj", "{9FB2B3C1-517A-43A8-A2BF-AC398E25E830}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4F489A5A-9119-4E66-8D2E-81E39FBC5954}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F489A5A-9119-4E66-8D2E-81E39FBC5954}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F489A5A-9119-4E66-8D2E-81E39FBC5954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB2B3C1-517A-43A8-A2BF-AC398E25E830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB2B3C1-517A-43A8-A2BF-AC398E25E830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB2B3C1-517A-43A8-A2BF-AC398E25E830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB2B3C1-517A-43A8-A2BF-AC398E25E830}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
