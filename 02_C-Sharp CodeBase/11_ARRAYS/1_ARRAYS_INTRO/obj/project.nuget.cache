@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rkiyAh2BDX2WnUS5gSJCNU4mJET0w4VJfwwiRg9lFx88K5gT3Ad7lNFLa9avaYkveolBRC/pV7VNsn3+gXdoNw==",
+  "success": true,
+  "projectFilePath": "D:\\01_C#_Tutorial\\C-Sharp\\01_C-sharp\\02_C-Sharp CodeBase\\11_ARRAYS\\1_ARRAYS_INTRO\\1_ARRAYS_INTRO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TT_1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
