@@ -104,5 +104,28 @@ namespace _1_ARRAYS_INTRO
             bool exists = Array.Exists(numbers, n => n > 3);
             Console.WriteLine(exists); // Output: True
         }
+
+        //9. Array.Length
+        public void ArrayLength()
+        {
+            //Returns the total number of elements in the array.
+            int[] singleDimArray = { 1, 2, 3, 4, 5 };
+            int length = singleDimArray.Length; // length is 5
+
+            int[,] multiDimArray = { { 1, 2 }, { 3, 4 }, { 5, 6 } };
+            int totalElements = multiDimArray.Length; // totalElements is 6 (3 rows * 2 columns)
+
+        }
+
+        //10. Array.GetLength(dimensonal)
+        public void ArrayGetLentgh()
+        {
+            // Returns the number of elements in the specified dimension of the array.
+            int[,] multiDimArray = { { 1, 2 }, { 3, 4 }, { 5, 6 } };
+            int rows = multiDimArray.GetLength(0); // rows is 3
+            int columns = multiDimArray.GetLength(1); // columns is 2
+
+        }
+
     }
 }

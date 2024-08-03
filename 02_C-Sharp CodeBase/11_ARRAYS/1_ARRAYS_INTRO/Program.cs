@@ -6,7 +6,14 @@ namespace _1_ARRAYS_INTRO
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] str_arr = new string[] { "Thillai", "Tamizh", "Vani" };
+            string[,] str_arr2 = new string[2, 3] {
+            {"Thillai","Tamizh","Tamizhillai"},
+            {"Tamizhvani","Thillai","Tamizhillai"}
+        };
+
+            _5_Array_FunctionArgcs arr_obj = new _5_Array_FunctionArgcs();
+            arr_obj.methodwithTwoArray(str_arr2);
         }
     }
 }

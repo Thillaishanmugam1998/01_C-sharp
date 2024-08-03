@@ -1,0 +1,14 @@
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\bin\Debug\netcoreapp3.1\1_ARRAYS_INTRO.exe
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\bin\Debug\netcoreapp3.1\1_ARRAYS_INTRO.deps.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\bin\Debug\netcoreapp3.1\1_ARRAYS_INTRO.runtimeconfig.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\bin\Debug\netcoreapp3.1\1_ARRAYS_INTRO.runtimeconfig.dev.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\bin\Debug\netcoreapp3.1\1_ARRAYS_INTRO.dll
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\bin\Debug\netcoreapp3.1\1_ARRAYS_INTRO.pdb
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\obj\Debug\netcoreapp3.1\1_ARRAYS_INTRO.csproj.AssemblyReference.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\obj\Debug\netcoreapp3.1\1_ARRAYS_INTRO.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\obj\Debug\netcoreapp3.1\1_ARRAYS_INTRO.AssemblyInfoInputs.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\obj\Debug\netcoreapp3.1\1_ARRAYS_INTRO.AssemblyInfo.cs
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\obj\Debug\netcoreapp3.1\1_ARRAYS_INTRO.csproj.CoreCompileInputs.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\obj\Debug\netcoreapp3.1\1_ARRAYS_INTRO.dll
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\obj\Debug\netcoreapp3.1\1_ARRAYS_INTRO.pdb
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\11_ARRAYS\1_ARRAYS_INTRO\obj\Debug\netcoreapp3.1\1_ARRAYS_INTRO.genruntimeconfig.cache
