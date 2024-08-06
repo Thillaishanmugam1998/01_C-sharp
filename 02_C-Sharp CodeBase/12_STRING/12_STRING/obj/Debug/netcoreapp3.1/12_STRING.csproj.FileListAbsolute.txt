@@ -1,0 +1,14 @@
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\bin\Debug\netcoreapp3.1\12_STRING.exe
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\bin\Debug\netcoreapp3.1\12_STRING.deps.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\bin\Debug\netcoreapp3.1\12_STRING.runtimeconfig.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\bin\Debug\netcoreapp3.1\12_STRING.runtimeconfig.dev.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\bin\Debug\netcoreapp3.1\12_STRING.dll
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\bin\Debug\netcoreapp3.1\12_STRING.pdb
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\obj\Debug\netcoreapp3.1\12_STRING.csproj.AssemblyReference.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\obj\Debug\netcoreapp3.1\12_STRING.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\obj\Debug\netcoreapp3.1\12_STRING.AssemblyInfoInputs.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\obj\Debug\netcoreapp3.1\12_STRING.AssemblyInfo.cs
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\obj\Debug\netcoreapp3.1\12_STRING.csproj.CoreCompileInputs.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\obj\Debug\netcoreapp3.1\12_STRING.dll
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\obj\Debug\netcoreapp3.1\12_STRING.pdb
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\12_STRING\12_STRING\obj\Debug\netcoreapp3.1\12_STRING.genruntimeconfig.cache
