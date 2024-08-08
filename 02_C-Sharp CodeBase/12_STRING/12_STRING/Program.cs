@@ -6,7 +6,8 @@ namespace _12_STRING
     {
         static void Main(string[] args)
         {
-            
+            _6_StringContains obj = new _6_StringContains();
+            obj.StringContains2();
         }
     }
 }
