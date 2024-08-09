@@ -1,0 +1,44 @@
+﻿# String
+---------------
+string str1 = "Welcome"
+string str1 = "Welcome to Tutlance"
+
+|----------------------------|
+|         RAM				 |
+|----------------------------|
+|Stack						 |
+|							 |
+|							 |	
+|----------------------------|
+|Heap						 |
+|							 |
+|Welcome                     |  0x02345  (Initial value)  ------>str1
+|							 |
+|Welcome to tutlance		 | 0x07896 (Modified value)       -------->str1
+|							 |
+|----------------------------|
+
+
+=====================================================================================
+
+
+# StringBuilder
+---------------
+StringBuilder sb = new StringBuilder("Welcome")
+sb = sb.Append("to tutlance")
+
+
+|----------------------------|
+|         RAM				 |
+|----------------------------|
+|Stack						 |
+|							 |
+|							 |	
+|----------------------------|
+|Heap						 |
+|							 |
+|Welcome  "to tutlance"      |  0x02345  ("Initialivalue and modified value")    --->sb
+|							 |
+|							 |
+|							 |
+|----------------------------|

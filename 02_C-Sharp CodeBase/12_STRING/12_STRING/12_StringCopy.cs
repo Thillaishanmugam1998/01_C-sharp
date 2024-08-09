@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _12_STRING
 {
-    class _13_StringCopy
+    class _12_StringCopy
     {
         #region String Copy
         /*
