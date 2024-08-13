@@ -1,0 +1,13 @@
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\bin\Debug\netcoreapp3.1\3_DECONSTRUCTOR.exe
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\bin\Debug\netcoreapp3.1\3_DECONSTRUCTOR.deps.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\bin\Debug\netcoreapp3.1\3_DECONSTRUCTOR.runtimeconfig.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\bin\Debug\netcoreapp3.1\3_DECONSTRUCTOR.runtimeconfig.dev.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\bin\Debug\netcoreapp3.1\3_DECONSTRUCTOR.dll
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\bin\Debug\netcoreapp3.1\3_DECONSTRUCTOR.pdb
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\obj\Debug\netcoreapp3.1\3_DECONSTRUCTOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\obj\Debug\netcoreapp3.1\3_DECONSTRUCTOR.AssemblyInfoInputs.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\obj\Debug\netcoreapp3.1\3_DECONSTRUCTOR.AssemblyInfo.cs
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\obj\Debug\netcoreapp3.1\3_DECONSTRUCTOR.csproj.CoreCompileInputs.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\obj\Debug\netcoreapp3.1\3_DECONSTRUCTOR.dll
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\obj\Debug\netcoreapp3.1\3_DECONSTRUCTOR.pdb
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\3_DECONSTRUCTOR\obj\Debug\netcoreapp3.1\3_DECONSTRUCTOR.genruntimeconfig.cache

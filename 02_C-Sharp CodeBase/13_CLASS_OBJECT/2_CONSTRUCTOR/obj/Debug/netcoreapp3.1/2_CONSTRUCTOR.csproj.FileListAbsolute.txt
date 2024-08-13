@@ -1,0 +1,14 @@
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\obj\Debug\netcoreapp3.1\2_CONSTRUCTOR.csproj.AssemblyReference.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\obj\Debug\netcoreapp3.1\2_CONSTRUCTOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\obj\Debug\netcoreapp3.1\2_CONSTRUCTOR.AssemblyInfoInputs.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\obj\Debug\netcoreapp3.1\2_CONSTRUCTOR.AssemblyInfo.cs
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\obj\Debug\netcoreapp3.1\2_CONSTRUCTOR.csproj.CoreCompileInputs.cache
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\bin\Debug\netcoreapp3.1\2_CONSTRUCTOR.exe
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\bin\Debug\netcoreapp3.1\2_CONSTRUCTOR.deps.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\bin\Debug\netcoreapp3.1\2_CONSTRUCTOR.runtimeconfig.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\bin\Debug\netcoreapp3.1\2_CONSTRUCTOR.runtimeconfig.dev.json
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\bin\Debug\netcoreapp3.1\2_CONSTRUCTOR.dll
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\bin\Debug\netcoreapp3.1\2_CONSTRUCTOR.pdb
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\obj\Debug\netcoreapp3.1\2_CONSTRUCTOR.dll
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\obj\Debug\netcoreapp3.1\2_CONSTRUCTOR.pdb
+D:\01_C#_Tutorial\C-Sharp\01_C-sharp\02_C-Sharp CodeBase\13_CLASS_OBJECT\2_CONSTRUCTOR\obj\Debug\netcoreapp3.1\2_CONSTRUCTOR.genruntimeconfig.cache
